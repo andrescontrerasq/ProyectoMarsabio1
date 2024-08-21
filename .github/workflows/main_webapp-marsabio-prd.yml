@@ -53,4 +53,4 @@ jobs:
           app-name: 'webapp-marsabio-prd'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_51933742EF8644E09F85567B55AB4A56 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9294B27760C04EF0B175B264A050F631 }}
